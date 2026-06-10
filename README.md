@@ -113,7 +113,8 @@ streamlit run app.py
 
 ### Feature Importance Visualization
 
-(Add screenshot here)
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/422a9d4e-0856-407b-9a63-4bfdbe8531e5" />
+
 
 ---
 
